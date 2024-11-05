@@ -1,3 +1,7 @@
+---
+title: Zack Didcott
+---
+
 ## About
 
 Hi there! I'm Zack Didcott, an open-source developer from the United Kingdom.
