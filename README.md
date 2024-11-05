@@ -1,8 +1,6 @@
-Hi there :wave:
-
 ## About
 
-I'm Zack Didcott, an open-source developer from the United Kingdom.
+Hi there! I'm Zack Didcott, an open-source developer from the United Kingdom.
 
 I like breaking and fixing things.
 
@@ -26,7 +24,7 @@ Connect with me on LinkedIn:
 
 If you like and want to support my work, please sponsor me on [GitHub Sponsors](https://github.com/sponsors/Zedeldi).
 
-Thank you :smiley:
+Thank you :)
 
 ## Badges
 
